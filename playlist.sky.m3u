@@ -1,0 +1,5 @@
+#EXTM3U catchup="flussonic" url-tvg="https://iptv.online/epg/epg.xml.gz"
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="SKY Sports F1", SKY Sports F1
+http://185.152.66.55/98783/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="SKY Sports F1", SKY Sports F1 UK
+http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
