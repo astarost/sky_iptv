@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Sky Sport" tvg-id="Sky Sport F1 (DE)" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://epg.it999.ru/img/2878.png" tvg-rec="1",Sky Sport 1 HD DE 1
-http://ru.iptv.monster/play/833/532B327C10FF78D/video.m3u8
-#EXTINF:0 group-title="Sky Sport" tvg-id="Sky Sport F1 (DE)" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://epg.it999.ru/img/2879.png" tvg-rec="1",Sky Sport 2 HD DE  2
-http://ru.iptv.monster/play/834/532B327C10FF78D/video.m3u8
 #EXTINF:0 group-title="Sky Sport",SKY Sports F1  3
 http://ru.iptv.monster/play/9923/532B327C10FF78D/video.m3u8
 #EXTINF:0 group-title="Sky Sport" tvg-id="Sky Sports F1 (UK)" tvg-name="SKY Sports F1", SKY Sports F1 4
